@@ -7,5 +7,4 @@ const publicPath = path.join(__dirname, "../client");
 
 app.use(express.static(publicPath));
 
-
-app.listen(3000, () => console.log(`Server running`));
+app.listen(process.env.PORT);
