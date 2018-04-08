@@ -1,0 +1,13 @@
+{
+  "name": "just-my-type",
+  "version": "1.0.0",
+  "description": "simple typing game",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "author": "Matthew Aderhold",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

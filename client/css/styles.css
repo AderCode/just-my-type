@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;	
+}
+
+#prompt-container {
+  font-family: Courier New, Courier, monospace;
+  font-size: 24px;
+  letter-spacing: 3px;
+}
+
+#yellow-block {
+  position: absolute;
+  margin-top: 10px;
+  width: 15px;
+  height: 15px;
+  background-color: yellow;
+}
+
+.keyboard-container {
+  margin-top: 200px;
+}
+
+#target-letter {
+  font-size: 38px;  
+}
+
+.keys-row {
+  margin-top: 40px;
+  padding: 10px 0;
+}
+
+#feedback {
+  font-size: 20px;
+}
+.glyphicon-ok {
+  color: #1DA237
+}
+
+.glyphicon-remove {
+  color : #CD2626
+}
+
+/* Personal Styles */
+.keypress-highlight {
+  background-color: #ffff00;
+}
+
+.key {
+  border: 1.5px solid black;
+}
+
+.bg {
+  background-image: url('../assets/images/galaxy.jpg');
+  background-size:     1920px, 1080px;
+  background-repeat:   repeat;
+  background-position: center center;
+  margin-top: 10%;
+}
+
+#prompt-container {
+  background-color: whitesmoke;
+  border: 1.5px solid black;
+  border-radius: 25px;
+  margin-top: 5px;
+  height: 160px;
+  opacity: 0.9;
+}
