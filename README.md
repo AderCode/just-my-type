@@ -1,5 +1,7 @@
 # Just My Type - Covalence Lab
 
+* *[Live Demo](https://limitless-cove-19806.herokuapp.com/)*
+
 ## Info
 
 * You are going to build a typing game
